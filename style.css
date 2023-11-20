@@ -1,0 +1,14 @@
+.body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: tan;
+}
+
+.headline {
+    text-align: center;
+    color:brown 
+}
+
+#list {
+    text-align: left
+}
