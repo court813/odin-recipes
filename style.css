@@ -6,9 +6,10 @@
 
 .headline {
     text-align: center;
-    color: brown 
+    color: brown;
 }
 
 .list {
-    display:block
+    display:inline-block;
+    margin: auto 32px;
 }
