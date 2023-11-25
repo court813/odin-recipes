@@ -6,9 +6,9 @@
 
 .headline {
     text-align: center;
-    color:brown 
+    color: brown 
 }
 
-#list {
-    text-align: left
+.list {
+    display:block
 }
